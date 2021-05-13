@@ -1005,6 +1005,7 @@ section {
   float: center;
   width: 44px;
   height: 44px;
+  text-align-last: center;
   background: #eef7ff;
   display: flex;
   justify-content: center;
@@ -1017,6 +1018,7 @@ section {
   padding: 0 0 0 60px;
   font-size: 22px;
   font-weight: 600;
+  text-align-last: center;
   margin-bottom: 5px;
   color: #45505b;
 }
@@ -1024,6 +1026,7 @@ section {
 .contact .info p {
   padding: 0 0 0 60px;
   margin-bottom: 0;
+  text-align-last: center;
   font-size: 14px;
   color: #728394;
 }
