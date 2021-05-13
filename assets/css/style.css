@@ -1002,7 +1002,7 @@ section {
 .contact .info i {
   font-size: 20px;
   color: #0563bb;
-  float: left;
+  float: center;
   width: 44px;
   height: 44px;
   background: #eef7ff;
